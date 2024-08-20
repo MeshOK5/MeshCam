@@ -13,4 +13,4 @@ pyinstaller --onefile --icon=images\icon.png  avatar.py
 # Change character
 To change web camera character change Close.png, Not_speaker.png and Speaker.png images on yours
 
-P.S. Format of file 180x180
+P.S. Format of .png 180x180
