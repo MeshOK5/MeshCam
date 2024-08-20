@@ -1,5 +1,5 @@
 # MeshCam
-Pseudo web camera
+Pseudo web camera on python + pyaudion and tkinter library
 
 # Create Exe
 To create .exe file you need to write in your terminal:
